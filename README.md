@@ -5,3 +5,5 @@ by following the instructions given to you in each new issue created in this pro
 that you will answer to, by writing and committing CodeQL queries on this project.
 
 Let's start right away, by going to the [first issue](#1)! 
+
+This repository is licensed under [MIT](../LICENSE) (c) 2020 GitHub, Inc.
