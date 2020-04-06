@@ -7,3 +7,4 @@ You will be able to complete each step by writing and committing CodeQL queries 
 Let's start right away, by going to the [first issue](#1)! 
 
 This repository is licensed under [MIT](../LICENSE) (c) 2020 GitHub, Inc.
+
